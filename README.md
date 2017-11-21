@@ -1,6 +1,8 @@
 # FoodSearch
 Simple food information list pulled from Rutgers Dining Services. Able to search by food name.
 
+Tested on AVD: Google Pixel API 25.
+
 ## What it does
 FoodSearch pulls data from Rutgers dining hall data from https://rumobile.rutgers.edu/1/rutgers-dining.txt. The Rutgers 
 mobile app loads food data into lists separated by dining hall, meal, and genre, which is a good way for people to find
